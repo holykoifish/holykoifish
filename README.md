@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @holykoifish
 - 👀 I’m interested in coding, mechanical keyboards, languages, and learning new things!
-- 🌱 I’m currently learning Python and C++
-- 📫 How to reach me holykoifish@gmail.com or on twitter @holykoifish
+- 🎓 I know java, python, html, and css
+- 🌱 I’m currently learning swift and c++
+- 📫 How to reach me holykoifish@gmail.com or you can find all of my socials at www.holykoifish.carrd.co
 
 <!---
 holykoifish/holykoifish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
