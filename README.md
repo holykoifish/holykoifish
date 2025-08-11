@@ -1,7 +1,7 @@
 - 👋 hi, I’m @holykoifish!
 - 👀 i’m interested in coding, mechanical keyboards, languages, and learning new things.
-- 🎓 i know java and python.
-- 🌱 i’m currently learning swift and html.
+- 🎓 i know swift, lua, and python and am learning web design.
+- 🌱 i’m currently learning comp eng.
 - 📫 you can reach me holykoifish@gmail.com or you can find all of my socials at www.holykoifish.carrd.co
 
 <!---
